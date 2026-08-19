@@ -46,8 +46,8 @@ These are some of the basic tools you will use regularly. You may not know what 
 
 - **Computer**
 - A **search engine**, such as [Google](https://www.google.com)
-- [Text Editor](#)
-- [Command Line Interface (CLI)](#)
+- [Text Editor](https://en.wikipedia.org/wiki/Text_editor)
+- [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)
 - [Stack Overflow](https://stackoverflow.com)
 - [Git](https://git-scm.com)
 - [GitHub](https://github.com)
@@ -71,3 +71,11 @@ It acknowledges that you need a wide variety of skill sets and languages to reac
 The Odin Project is constantly evolving because of people like you who get further along in the curriculum and pay it forward by incrementally improving our content over time.
 
 Once you start to feel comfortable with the tools, start contributing to open source projects, like [contributing to The Odin Project](#)! The more you contribute, the more you will learn about what you can do, and the closer you will get to being hireable. These projects will also look great on your resume!
+
+## Knowledge check
+
+The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
+
+- [What kind of web developer will The Odin Project teach you to be?](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#types-of-web-developers)
+- [What are the different types of careers you could have?](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#types-of-careers)
+- [What are some of the tools you'll be using regularly?](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development#tools-of-the-trade)
